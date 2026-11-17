@@ -1,0 +1,26 @@
+[
+  {
+    "id": "espaco-1",
+    "nome": "Sala de Reunião 01",
+    "tipo": "Sala",
+    "capacidade": 8,
+    "localizacao": "Bloco A",
+    "descricao": "Sala com mesa, cadeiras e televisão."
+  },
+  {
+    "id": "espaco-2",
+    "nome": "Auditório Central",
+    "tipo": "Auditório",
+    "capacidade": 80,
+    "localizacao": "Bloco B",
+    "descricao": "Auditório com projetor e sistema de som."
+  },
+  {
+    "id": "espaco-3",
+    "nome": "Laboratório de Informática",
+    "tipo": "Laboratório",
+    "capacidade": 25,
+    "localizacao": "Bloco C",
+    "descricao": "Laboratório com computadores."
+  }
+]
