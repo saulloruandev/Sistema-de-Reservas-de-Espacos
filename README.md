@@ -221,4 +221,3 @@ Os arquivos ficam em `src/data`:
 
 Quando uma operação cria, altera ou exclui um registro, o repositório grava novamente o arquivo. Por isso, os dados continuam salvos mesmo depois de desligar e iniciar o servidor.
 
-> Projeto didático: a gravação em JSON é simples e adequada para a atividade. Em um sistema real com muitos acessos simultâneos, seria melhor utilizar um banco de dados.
